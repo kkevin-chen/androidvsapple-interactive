@@ -1,4 +1,4 @@
-// JavaScript File
+// Apple vs Android
 
 // Event Listener
 document.getElementById('android').addEventListener('click', android);
